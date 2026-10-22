@@ -1,0 +1,6 @@
+{
+  "name": "Case Zero",
+  "description": "Offline-first noir detective mystery game. Investigate crime scenes, question suspects, connect clues on the pinboard, and make defensible accusations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

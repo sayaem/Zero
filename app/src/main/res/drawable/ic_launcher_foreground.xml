@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Magnifying Glass Lens Fill -->
+    <path
+        android:fillColor="#152B3C"
+        android:pathData="M48,44m-17,0a17,17 0 1,0 34,0a17,17 0 1,0 -34,0" />
+    
+    <!-- Reticle / Target lines -->
+    <path
+        android:strokeColor="#4A7593"
+        android:strokeWidth="1.2"
+        android:pathData="M48,31 L48,57 M35,44 L61,44" />
+        
+    <!-- Inner Lens Ring / Zero symbol -->
+    <path
+        android:strokeColor="#E7B15E"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:pathData="M48,44m-8,0a8,8 0 1,0 16,0a8,8 0 1,0 -16,0" />
+
+    <!-- Outer Rim of Lens -->
+    <path
+        android:strokeColor="#E7B15E"
+        android:strokeWidth="3.2"
+        android:fillColor="#00000000"
+        android:pathData="M48,44m-17,0a17,17 0 1,0 34,0a17,17 0 1,0 -34,0" />
+
+    <!-- Magnifying Glass Mount & Handle -->
+    <path
+        android:strokeColor="#B98743"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round"
+        android:pathData="M60,56 L77,73" />
+    <path
+        android:strokeColor="#E7B15E"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M65,61 L74,70" />
+
+    <!-- Detective Badge Star Accent -->
+    <path
+        android:fillColor="#E7B15E"
+        android:pathData="M31,27 L33,32 L38,32 L34,35 L35,40 L31,37 L27,40 L28,35 L24,32 L29,32 Z" />
+</vector>
